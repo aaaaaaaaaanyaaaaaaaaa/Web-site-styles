@@ -1,0 +1,13 @@
+/*define button to have an on hover which attracts attention */
+.button {
+  width: 100%;
+  background: transparent;
+  color: #ffff89;
+  text-transform: uppercase;
+  margin-top: 1.3em;
+  padding: 12px;
+  cursor: pointer;
+  border: 2px #ffff89 solid;
+ 
+}
+
